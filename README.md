@@ -26,27 +26,20 @@ An AI-powered customer support agent for **Aven**, designed to answer user quest
 
 ## 🚀 Setup & Installation
 
-1. **Clone the repository**  
+### 1. **Clone the repository**  
 ```bash
 git clone https://github.com/YoshaM09/AI-Customer-Support-Agent.git
 cd AI-Customer-Support-Agent
 ```
 
-2. **Install backend dependencies**
+### 2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
-
-3. **Install frontend dependencies**
-```bash
-cd frontend
-npm install
-npm run dev
-```
-4. **Configure environment variables**
+### 3. **Configure environment variables**
 - .env file for API keys (OpenAI, Pinecone, etc.)
 
-5. **Run the application**
+### 4. **Run the application**
 - Backend: python main.py
 - Frontend: npm run dev
 
