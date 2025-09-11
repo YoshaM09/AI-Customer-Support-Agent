@@ -40,13 +40,13 @@ pip install -r requirements.txt
 - .env file for API keys (OpenAI, Pinecone, etc.)
 
 ### 4. Run the application
-- Backend: python main.py
-- Frontend: npm run dev
+- **Backend**: python main.py
+- **Frontend**: npm run dev
 
 ## 🎬 Usage
 
 - Open the web app in your browser.
-- Interact with the AI agent via natural language.
+- Interact with the AI agent via **natural language** to ask questions about Aven.
 
 ## 🤝 Contributing
 
